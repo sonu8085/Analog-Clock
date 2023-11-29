@@ -32,7 +32,7 @@ body {
 .clock-pos{
 	width: 40vw;
 	height: 40vw;
-	background-image: url(/images/clock.jpg);
+	background-image: url(/clock.jpg);
 	background-color: #b2b2b2;
 	background-size: cover;
 	box-shadow: 0 3em 5.8em;
