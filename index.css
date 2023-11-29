@@ -29,6 +29,16 @@ body {
 	border-radius: 50%;
 	position: relative;
 }
+.clock-pos{
+	width: 40vw;
+	height: 40vw;
+	background-image: url(/images/clock.jpg);
+	background-color: #b2b2b2;
+	background-size: cover;
+	box-shadow: 0 3em 5.8em;
+	border-radius: 50%;
+	position: relative;
+}
 
 .hr,
 .min,
